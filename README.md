@@ -13,4 +13,7 @@ Ici j'écris des trucs pour écrire des trucs, c'est super fun!!!
 ## Contact
  - [Contact](contact.txt)
 
+## Auteur
+-YsDng
+
 Ce projet est un exercice de formation sur Git.
