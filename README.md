@@ -24,5 +24,22 @@ gsd
 gs
 
 -YsDng
+qdfgqdfg
+
+gf
+dq
+gdq
+fg
+qg
+fq
+dg
+qfg
+fq
+gq
+
+
+
+gq
+fgfq
 
 Ce projet est un exercice de formation sur Git.
