@@ -15,16 +15,5 @@ Ici j'écris des trucs pour écrire des trucs, c'est super fun!!!
 
 ## Auteur
 -YsDng
-## dsfjhqkjshfkjdsqhfqsf
-dsqfq
-sdf
-qdg
-dqf
-gds
-gq
-g
-qg
-q
-
 
 Ce projet est un exercice de formation sur Git.
