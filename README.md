@@ -11,5 +11,21 @@ Ici j'écris des trucs pour écrire des trucs, c'est super fun!!!
  - Git & Restic listé
 
 ##dfqfksqflkjdsqlk 
+dgf
+ds
+gds
+g
+s
+hs
+fhfs
+h
+
+
+
+hsghgshs
+gh
+hs
+s
+hs
 
 Ce projet est un exercice de formation sur Git.
