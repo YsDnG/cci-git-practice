@@ -10,4 +10,7 @@ Ici j'écris des trucs pour écrire des trucs, c'est super fun!!!
 ## Technologies utilisées
  - Git & Restic listé
 
+## Contact
+ - [Contact](contact.txt)
+
 Ce projet est un exercice de formation sur Git.
